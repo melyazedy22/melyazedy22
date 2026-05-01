@@ -8,109 +8,80 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Data+%26+AI+Engineer+%40+Tanta+University;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Microsoft+Certified+Data+Engineer+Associate+%E2%9C%85;NVIDIA+DLI+Certified+%7C+LLM+App+Developer+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
+</div>
+
 <br/>
 
-<!-- Profile badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6F61?style=for-the-badge&logoColor=white)](https://gamma.app/docs/Mahmoud-Ramadan-Elyazedy-ony9q6sru8fg0qf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elyazedy-130a71223/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melyazedy22)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelyazedy22@gmail.com)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class MahmoudElyazedy:
-    def __init__(self):
-        self.name        = "Mahmoud Ramadan Elyazedy"
-        self.role        = "Data & AI Engineer"
-        self.university  = "Tanta University — Computer Engineering (2021–2026)"
-        self.location    = "Tanta/Cairo, Egypt 🇪🇬"
-        self.interests   = [
-            "Generative AI", "Agentic AI",
-            "RAG Systems", "Data Engineering",
-            "LLMOps", "MLOps", "Computer Vision"
-        ]
-        self.certifications = [
-            "Microsoft Certified: Azure Data Engineer Associate ✅",
-            "NVIDIA DLI: Diffusion Models & RAG Agents 🎓",
-            "IBM SkillsBuild: AI Fundamentals & RAG 📘"
-        ]
-        self.current_project = "Tegy — Bilingual Agentic AI Chatbot (Graduation Project)"
-
-    def say_hi(self):
-        print("Building intelligent, production-ready AI systems 🚀")
-```
-
----
-
-## 💼 Experience
-
-| 🔹 Role | 🏢 Organization | 📅 Period |
-|---|---|---|
-| **AI & ML Specialist Intern** *(265-hour ISO 9001 program — DL, CV, NLP)* | ITI (Information Technology Institute) | Dec 2024 – Present |
-| **LLM Application Developer** *(Smart Document Assistant, multi-LLM eval pipelines)* | NVIDIA DLI | Jan 2026 – Feb 2026 |
-| **Microsoft Data Engineer** *(Spark, Kafka, Airflow, Azure — 7-month program)* | DEPI – Digital Egypt Pioneers Initiative | Jun 2025 – Dec 2025 |
-| **Data Science & ML Intern** | AMIT Learning | — |
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| 🏅 Certification | 🏢 Issuer |
-|---|---|
-| **Microsoft Certified: Azure Data Engineer Associate** | Microsoft |
-| **Diffusion Models & RAG Agents** | NVIDIA DLI |
-| **AI Fundamentals + RAG** | IBM SkillsBuild |
-| **SQL Advanced + Software Engineer** | HackerRank |
-| **Python, Database, Deep Learning** | ITI Mahara-Tech |
-| **Introduction to Data Science** | Cisco |
-
-</div>
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github.com/melyazedy22.png" width="200" style="border-radius: 50%; border: 3px solid #00D4FF; box-shadow: 0 0 20px #00D4FF;" alt="Mahmoud Ramadan Elyazedy" />
+      <br/><br/>
+      <a href="https://gamma.app/docs/Mahmoud-Ramadan-Elyazedy-ony9q6sru8fg0qf">
+        <img src="https://img.shields.io/badge/🌐_Portfolio-FF6F61?style=for-the-badge&logoColor=white" width="160"/>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/mahmoud-elyazedy-130a71223/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160"/>
+      </a>
+      <br/>
+      <a href="mailto:mahmoudelyazedy22@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="160"/>
+      </a>
+    </td>
+    <td width="70%">
+      <h2>👋 Hi there! I'm Mahmoud Ramadan Elyazedy</h2>
+      <p><b>Data & AI Engineer | Generative AI & Agentic Systems</b></p>
+      <p>I'm a passionate Data & AI Engineer, currently pursuing my degree in Computer Engineering at Tanta University. Based in Egypt 🇪🇬, I specialize in building intelligent, production-ready AI systems with a deep focus on <b>Generative AI, Agentic Systems, and Retrieval-Augmented Generation (RAG)</b>.</p>
+      <p>I thrive at the intersection of data and intelligence. My expertise ranges from architecting end-to-end robust <b>Data Engineering</b> pipelines and orchestrating workflows, to developing autonomous AI agents and deploying privacy-first LLM applications via comprehensive <b>MLOps</b> life cycles.</p>
+      <p>When I'm not coding, I'm continuously expanding my knowledge through certifications from industry leaders like Microsoft (Azure Data Engineer Associate), NVIDIA (Diffusion Models & RAG Agents), and IBM. I'm currently fully invested in my graduation project, <b>Tegy</b>, a bilingual production-grade Agentic AI chatbot.</p>
+      <p><i>"The best way to predict the future is to build it."</i> 🚀</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🤖 AI & GenAI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6B00?style=flat-square&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-7B2D8E?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-007ACC?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-7B2D8E?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-007ACC?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
 
 ### ☁️ Data Engineering & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### 🐍 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🧪 ML & MLOps
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
 
 ---
 
@@ -124,7 +95,11 @@ class MahmoudElyazedy:
 **🎓 Graduation Project**
 > A bilingual (Arabic/English) production-grade Agentic AI chatbot for event discovery & ticketing. Built with LLaMA 3.3, LangChain, and FastAPI — featuring tool-use, memory, and multi-step reasoning.
 
-`LangChain` `LLaMA 3.3` `FastAPI` `Agentic AI` `Bilingual`
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA_3.3-7B2D8E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
 
 </td>
 <td width="50%">
@@ -133,7 +108,11 @@ class MahmoudElyazedy:
 **🔒 Privacy-First RAG Pipeline**
 > Retrieval-Augmented Generation system for PDF/DOCX analysis with multi-LLM support and evaluation pipelines. Built with FAISS vector store and LLM integration.
 
-`RAG` `FAISS` `LangChain` `Multi-LLM` `Evaluation`
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</div>
 
 </td>
 </tr>
@@ -144,7 +123,11 @@ class MahmoudElyazedy:
 **🤖 Agentic Tagging Pipeline**
 > Autonomous AI agent that classifies and tags events using LLM-driven reasoning chains with real-time processing.
 
-`Agents` `LLMs` `Python` `Automation`
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Agents-FF6B00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-7B2D8E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 </td>
 <td width="50%">
@@ -153,7 +136,11 @@ class MahmoudElyazedy:
 **📊 NLP System**
 > Sentiment classification model supporting multiple languages using transformer-based architecture and deployed via FastAPI.
 
-`Transformers` `NLP` `TensorFlow` `HuggingFace`
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
 
 </td>
 </tr>
@@ -164,7 +151,11 @@ class MahmoudElyazedy:
 **⚡ End-to-End Streaming**
 > Complete data flow from ingestion (Kafka) to storage (Parquet/Azure) with Airflow orchestration for IoT sensor data.
 
-`Kafka` `Spark` `Azure` `Airflow` `Parquet`
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
 
 </td>
 <td width="50%">
@@ -173,7 +164,11 @@ class MahmoudElyazedy:
 **🖼️ Computer Vision**
 > Animal image classifier built with VGG16 deep learning model and React.js frontend for interactive predictions.
 
-`VGG16` `React.js` `TensorFlow` `Computer Vision`
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/CV-009688?style=for-the-badge&logoColor=white" />
+</div>
 
 </td>
 </tr>
@@ -184,7 +179,10 @@ class MahmoudElyazedy:
 **🎥 Movie Recommendation Engine**
 > Collaborative and content-based filtering recommendation system for movies.
 
-`Scikit-learn` `Python` `Recommender Systems`
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 </td>
 <td width="50%">
@@ -193,7 +191,10 @@ class MahmoudElyazedy:
 **🔄 MLOps Pipeline**
 > Full ML lifecycle with experiment tracking, model registry, and CI/CD deployment using MLflow.
 
-`MLflow` `Scikit-learn` `Docker` `MLOps`
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 </td>
 </tr>
@@ -204,7 +205,11 @@ class MahmoudElyazedy:
 **🛒 Full-Stack E-Commerce Platform**
 > Full-stack e-commerce web application for a bakery business with integrated admin dashboard.
 
-`FastAPI` `Python` `SQL` `React` `Full-Stack`
+<div style="display: flex; gap: 5px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
 </td>
 </tr>
@@ -276,8 +281,8 @@ class MahmoudElyazedy:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=melyazedy22&color=00d4ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=melyazedy22&color=00d4ff&style=for-the-badge&label=Profile+Views)
 &nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/melyazedy22?style=flat-square&color=00d4ff&label=Total+Stars)
+![Stars](https://img.shields.io/github/stars/melyazedy22?style=for-the-badge&color=00d4ff&label=Total+Stars)
 
 </div>
