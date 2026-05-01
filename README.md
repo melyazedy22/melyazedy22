@@ -27,6 +27,7 @@
 </a>
 
 </div>
+<br/>
 ## About Me
 
 I am a Data & AI Engineer with a strong focus on Generative AI, RAG, and Data Engineering. My work bridges intelligent retrieval, scalable data pipelines, and practical AI system design to build solutions that are both innovative and useful.
