@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent%2C+Production-Ready+AI+Systems+%F0%9F%A4%96" alt="Static Header" />
+  <h2 align="center">Building Intelligent, Production-Ready AI Systems 🤖</h2>
 
 
 <br/>
