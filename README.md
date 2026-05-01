@@ -28,6 +28,10 @@
 
 </div>
 <br/>
+<div align="center">
+  
+<div align="center">
+
 ## About Me
 
 I am a Data & AI Engineer with a strong focus on Generative AI, RAG, and Data Engineering. My work bridges intelligent retrieval, scalable data pipelines, and practical AI system design to build solutions that are both innovative and useful.
@@ -35,6 +39,8 @@ I am a Data & AI Engineer with a strong focus on Generative AI, RAG, and Data En
 I hold the Microsoft Data Engineer Associate certification and have developed hands-on skills in Python, SQL, and Azure through training and applied projects. My journey has also included ITI, AMIT Learning, and DEPI, where I strengthened my understanding of industry-ready AI and data workflows.
 
 My experience spans Deep Learning and Computer Vision, including object detection and sentiment analysis. I also build with LLMs such as LLaMA, OpenAI, and Gemini using LangChain for agentic systems, and I rely on MLOps tools like MLflow and Docker to make models scalable, reliable, and production-ready.
+
+</div>
 
 ---
 
