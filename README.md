@@ -4,7 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0f2044,100:162032&height=180&text=Mahmoud%20Ramadan%20Elyazedy&fontSize=44&fontColor=00d4ff&fontAlignY=45&desc=Data%20%26%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%26%20Agentic%20Systems&descAlignY=72&descColor=a0aec0&descSize=18" />
 
 <br/>
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent%2C+Production-Ready+AI+Systems+%F0%9F%A4%96;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Microsoft+Certified+Data+Engineer+Associate+%E2%9C%85;LLM+App+Developer+%7C+NVIDIA+DLI+Certified+%F0%9F%8E%93;Data+Engineering+%7C+MLOps+%7C+Computer+Vision" alt="Typing SVG" />
@@ -26,7 +25,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 I am a Data & AI Engineer with a strong focus on Generative AI, RAG, and Data Engineering. My work bridges intelligent retrieval, scalable data pipelines, and practical AI system design to build solutions that are both innovative and useful.
 
@@ -118,7 +117,7 @@ My experience spans Deep Learning and Computer Vision, including object detectio
 ---
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
