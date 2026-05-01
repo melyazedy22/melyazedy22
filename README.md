@@ -121,37 +121,6 @@ My experience spans Deep Learning and Computer Vision, including object detectio
 </div>
 
 ---
-## 🛠️ Skills & Technologies
-
-<div align="center">
-
-### 💻 Programming & Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,go,html,css,postgres" />
-
-### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br/>
-<b>RAG • LLMs • Agentic AI • LangChain • CrewAI • FAISS • Vector DBs • n8n</b>
-
-### ⚙️ Backend & MLOps
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
-<br/>
-<b>MLflow • Gradio • Streamlit • Swagger</b>
-
-### 📊 Data Engineering
-<img src="https://skillicons.dev/icons?i=azure" />
-<br/>
-<b>Apache Spark • Kafka • Airflow • Microsoft Fabric • ETL/ELT • dbt • SQL Server</b>
-
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-<br/>
-<b>Jupyter • Excel</b>
-
-### 🧠 Specializations
-<b>Agentic AI • RAG • Computer Vision • NLP • Data Engineering • MLOps • Full-Stack AI</b>
-
-</div>
 
 ## Let's Connect
 
