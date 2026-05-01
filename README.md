@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mahmoud%20Ramadan%20Elyazedy&fontSize=45&fontColor=00f5d4&animation=fadeIn&fontAlignY=35"/>
 
 <!-- Subtitle -->
-<h2> Data & AI Engineer | Generative AI | RAG | MLOps</h2>
+<h2>🚀 Data & AI Engineer | Generative AI | RAG | MLOps</h2>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems;Specialized+in+RAG+%26+LLMs;Turning+Data+into+Real+Impact;Open+to+Work+%26+Freelance+Projects" />
@@ -26,14 +26,7 @@
   <img src="https://img.shields.io/badge/Email-00f5d4?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=melyazedy22&color=00f5d4&style=flat-square&label=Profile+Views"/>
-
 </div>
-
-<br/>
-
 ## About Me
 
 I am a Data & AI Engineer with a strong focus on Generative AI, RAG, and Data Engineering. My work bridges intelligent retrieval, scalable data pipelines, and practical AI system design to build solutions that are both innovative and useful.
