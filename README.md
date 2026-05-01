@@ -14,11 +14,24 @@
 
 ## 👋 About Me
 
-I am a final-year Computer Engineering student at Tanta University with a strong focus on Generative AI, RAG, and Data Engineering. My work bridges intelligent retrieval, scalable data pipelines, and practical AI system design to build solutions that are both innovative and useful.
-
-I hold the Microsoft Data Engineer Associate certification and have developed hands-on skills in Python, SQL, and Azure through training and applied projects. My journey has also included ITI, AMIT Learning, and DEPI, where I strengthened my understanding of industry-ready AI and data workflows.
-
-My experience spans Deep Learning and Computer Vision, including object detection and sentiment analysis. I also build with LLMs such as LLaMA, OpenAI, and Gemini using LangChain for agentic systems, and I rely on MLOps tools like MLflow and Docker to make models scalable, reliable, and production-ready.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>I am a final-year Computer Engineering student at Tanta University with a strong focus on Generative AI, RAG, and Data Engineering. My work bridges intelligent retrieval, scalable data pipelines, and practical AI system design to build solutions that are both innovative and useful.</p>
+      <b>💼 Experience & Training Highlights:</b>
+      <ul>
+        <li><b>ITI</b>: Gen AI & RAG Engineer Trainee (Built Smart Document Assistants)</li>
+        <li><b>AMIT Learning</b>: Data Science, ML & AI Diploma (End-to-end MLOps)</li>
+        <li><b>DEPI</b>: Microsoft Data Engineer (Spark, Kafka, Airflow, Azure)</li>
+        <li><b>Certifications</b>: Microsoft Data Engineer Associate</li>
+      </ul>
+      <p>My experience spans Deep Learning, Computer Vision, and agentic systems using LLMs (LLaMA, OpenAI, Gemini) with LangChain, relying on MLOps tools like MLflow and Docker for scalable, production-ready deployments.</p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/7suyash7/7suyash7/main/assets/developer.gif" width="100%" alt="Developer Animation"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
