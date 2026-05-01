@@ -1,36 +1,38 @@
 <div align="center">
 
-<!-- Fixed Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&text=Mahmoud%20Ramadan%20Elyazedy&fontSize=46&fontColor=00d4ff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%26%20Agentic%20Systems&descAlignY=60&descColor=a0aec0" />
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0f2044,100:162032&height=180&text=Mahmoud%20Ramadan%20Elyazedy&fontSize=44&fontColor=00d4ff&fontAlignY=45&desc=Data%20%26%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%26%20Agentic%20Systems&descAlignY=72&descColor=a0aec0&descSize=18" />
 
 <br/>
 
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Intelligent%2C+Production-Ready+AI+Systems+%F0%9F%A4%96;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Microsoft+Certified+Data+Engineer+Associate+%E2%9C%85;LLM+App+Developer+%7C+NVIDIA+DLI+Certified+%F0%9F%8E%93;Data+Engineering+%7C+MLOps+%7C+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent%2C+Production-Ready+AI+Systems+%F0%9F%A4%96;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Microsoft+Certified+Data+Engineer+Associate+%E2%9C%85;LLM+App+Developer+%7C+NVIDIA+DLI+Certified+%F0%9F%8E%93;Data+Engineering+%7C+MLOps+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Contact Badges -->
-<a href="https://gamma.app/docs/Mahmoud-Ramadan-Elyazedy-ony9q6sru8fg0qf"><img src="https://img.shields.io/badge/🌐_Portfolio-FF6F61?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mahmoud-elyazedy-130a71223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/melyazedy22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:mahmoudelyazedy22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6F61?style=for-the-badge&logoColor=white)](https://gamma.app/docs/Mahmoud-Ramadan-Elyazedy-ony9q6sru8fg0qf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elyazedy-130a71223/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melyazedy22)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelyazedy22@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=melyazedy22&color=00d4ff&style=flat-square&label=Profile+Views)
 
 </div>
 
----
+<br/>
 
 ## 👋 About Me
 
-I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, and Data Engineering**. I design and deploy intelligent, production-ready AI systems — from scalable RAG pipelines to autonomous AI agents.
+I am a Data & AI Engineer with a strong focus on Generative AI, RAG, and Data Engineering. My work bridges intelligent retrieval, scalable data pipelines, and practical AI system design to build solutions that are both innovative and useful.
 
-- 🤖 **AI & GenAI**: Building LLM-powered applications, RAG pipelines, and agentic workflows using LangChain, CrewAI, LLaMA, OpenAI, and Gemini
-- ☁️ **Data Engineering**: End-to-end pipelines with Spark, Kafka, Airflow, and Azure — certified **Microsoft Data Engineer Associate**
-- 🧠 **ML & Deep Learning**: Object detection, NLP, Computer Vision (CNNs, RNNs, YOLO) with PyTorch and TensorFlow
-- 🔄 **MLOps**: Full ML lifecycle management with MLflow, Docker, FastAPI, and CI/CD deployment
-- 📜 **Certifications**: Microsoft Data Engineer Associate | NVIDIA DLI (RAG & Diffusion Models) | IBM AI Fundamentals
+I hold the Microsoft Data Engineer Associate certification and have developed hands-on skills in Python, SQL, and Azure through training and applied projects. My journey has also included ITI, AMIT Learning, and DEPI, where I strengthened my understanding of industry-ready AI and data workflows.
+
+My experience spans Deep Learning and Computer Vision, including object detection and sentiment analysis. I also build with LLMs such as LLaMA, OpenAI, and Gemini using LangChain for agentic systems, and I rely on MLOps tools like MLflow and Docker to make models scalable, reliable, and production-ready.
 
 ---
 
@@ -40,7 +42,7 @@ I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, 
 
 <div align="center">
 
-### 1️⃣ Programming & Languages
+### Programming & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,7 +50,7 @@ I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, 
 ![HTML/CSS](https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 2️⃣ AI & Generative AI
+### AI & Generative AI
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B00?style=for-the-badge&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-7B2D8E?style=for-the-badge&logoColor=white)
@@ -58,7 +60,7 @@ I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, 
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-4285F4?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 3️⃣ Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -67,7 +69,7 @@ I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, 
 ![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-009688?style=for-the-badge&logoColor=white)
 
-### 4️⃣ MLOps & Experiment Tracking
+### MLOps & Experiment Tracking
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logoColor=white)
@@ -75,7 +77,7 @@ I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### 5️⃣ Data Engineering
+### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
@@ -85,7 +87,7 @@ I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 6️⃣ Frameworks & Libraries
+### Frameworks & Libraries
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -94,13 +96,13 @@ I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 7️⃣ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 8️⃣ Specializations
+### Specializations
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Agentic_AI-16213E?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-16213E?style=for-the-badge&logoColor=white" />
