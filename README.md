@@ -128,8 +128,4 @@ My experience spans Deep Learning and Computer Vision, including object detectio
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=melyazedy22&color=00d4ff&style=for-the-badge&label=Profile+Views)
-&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/melyazedy22?style=for-the-badge&color=00d4ff&label=Total+Stars)
-
 </div>
