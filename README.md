@@ -1,24 +1,36 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Mahmoud%20Ramadan%20Elyazedy&fontSize=42&fontColor=00d4ff&fontAlignY=35&desc=Data%20%26%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%26%20Agentic%20Systems&descAlignY=58&descColor=a0aec0" />
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Data+%26+AI+Engineer;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Microsoft+Certified+Data+Engineer+Associate+%E2%9C%85;NVIDIA+DLI+Certified+%7C+LLM+App+Developer+%F0%9F%8E%93" alt="Typing SVG" />
-</a>
-
-</div>
+<!-- Fixed Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&text=Mahmoud%20Ramadan%20Elyazedy&fontSize=46&fontColor=00d4ff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%26%20Agentic%20Systems&descAlignY=60&descColor=a0aec0" />
 
 <br/>
 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Intelligent%2C+Production-Ready+AI+Systems+%F0%9F%A4%96;Generative+AI+%7C+Agentic+AI+%7C+RAG+Systems;Microsoft+Certified+Data+Engineer+Associate+%E2%9C%85;LLM+App+Developer+%7C+NVIDIA+DLI+Certified+%F0%9F%8E%93;Data+Engineering+%7C+MLOps+%7C+Computer+Vision" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Contact Badges -->
+<a href="https://gamma.app/docs/Mahmoud-Ramadan-Elyazedy-ony9q6sru8fg0qf"><img src="https://img.shields.io/badge/🌐_Portfolio-FF6F61?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-elyazedy-130a71223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/melyazedy22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:mahmoudelyazedy22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
 ## 👋 About Me
 
-I am a Data & AI Engineer with a strong focus on Generative AI, RAG, and Data Engineering. My work bridges intelligent retrieval, scalable data pipelines, and practical AI system design to build solutions that are both innovative and useful.
+I am a **Data & AI Engineer** specializing in **Generative AI, Agentic Systems, and Data Engineering**. I design and deploy intelligent, production-ready AI systems — from scalable RAG pipelines to autonomous AI agents.
 
-I hold the Microsoft Data Engineer Associate certification and have developed hands-on skills in Python, SQL, and Azure through training and applied projects. My journey has also included ITI, AMIT Learning, and DEPI, where I strengthened my understanding of industry-ready AI and data workflows.
-
-My experience spans Deep Learning and Computer Vision, including object detection and sentiment analysis. I also build with LLMs such as LLaMA, OpenAI, and Gemini using LangChain for agentic systems, and I rely on MLOps tools like MLflow and Docker to make models scalable, reliable, and production-ready.
+- 🤖 **AI & GenAI**: Building LLM-powered applications, RAG pipelines, and agentic workflows using LangChain, CrewAI, LLaMA, OpenAI, and Gemini
+- ☁️ **Data Engineering**: End-to-end pipelines with Spark, Kafka, Airflow, and Azure — certified **Microsoft Data Engineer Associate**
+- 🧠 **ML & Deep Learning**: Object detection, NLP, Computer Vision (CNNs, RNNs, YOLO) with PyTorch and TensorFlow
+- 🔄 **MLOps**: Full ML lifecycle management with MLflow, Docker, FastAPI, and CI/CD deployment
+- 📜 **Certifications**: Microsoft Data Engineer Associate | NVIDIA DLI (RAG & Diffusion Models) | IBM AI Fundamentals
 
 ---
 
