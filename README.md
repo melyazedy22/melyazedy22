@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mahmoud%20Ramadan%20Elyazedy&fontSize=45&fontColor=00f5d4&animation=fadeIn&fontAlignY=35"/>
 
 <!-- Subtitle -->
-<h2>🚀 Data & AI Engineer | Generative AI | RAG | MLOps</h2>
+<h2> Data & AI Engineer | Generative AI | RAG | MLOps</h2>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems;Specialized+in+RAG+%26+LLMs;Turning+Data+into+Real+Impact;Open+to+Work+%26+Freelance+Projects" />
@@ -44,7 +44,7 @@ My experience spans Deep Learning and Computer Vision, including object detectio
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 *Grouped by domain for a cleaner, more intuitive, and highly scannable overview.*
 
@@ -134,7 +134,7 @@ My experience spans Deep Learning and Computer Vision, including object detectio
 
 | 📧 Email | 📍 Location | 📞 Phone |
 | :--- | :--- | :--- |
-| [mahmoudelyazedy22@gmail.com](mailto:mahmoudelyazedy22@gmail.com) | Tanta/Cairo, Egypt | [+20 109 347 1551](tel:+201093471551) |
+| [mahmoudelyazedy22@gmail.com](mailto:mahmoudelyazedy22@gmail.com) | Cairo, Egypt | [+20 109 347 1551](tel:+201093471551) |
 
 <br/>
 
