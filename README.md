@@ -1,7 +1,6 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent%2C+Production-Ready+AI+Systems+%F0%9F%A4%96" alt="Static Header" />
 
-<!-- ═══════════════════ HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0f2044,100:162032&height=180&text=Mahmoud%20Ramadan%20Elyazedy&fontSize=44&fontColor=00d4ff&fontAlignY=45&desc=Data%20%26%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%26%20Agentic%20Systems&descAlignY=72&descColor=a0aec0&descSize=18" />
 
 <br/>
 <!-- Typing Animation -->
